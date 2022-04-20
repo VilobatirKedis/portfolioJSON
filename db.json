@@ -1,14 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "work": [
+    {
+      "id": "Ammagamma",
+      "description": {
+          "1": "",
+          "2": ""
+      }
+    },
+
+    {
+      "id": "Web Analytics",
+      "description": {
+          "1": "Corso di 10 ore tenuto dal professor Gaddi alla sezione Informatico per l'apprendimento delle tecniche SEO (Search Engine Optimization) con restituzione finale di un sito web ottimizato a tal fine"
+      }
+    },
+
+    {
+      "id": "Orientamento",
+      "description": {
+          "1": "Incontri di vario genere (ITS Maker, Unimore, Open Day) per l'orientamento in uscita dalla scuola superiore e l'apertura a svariate carriere"
+      }
+    },
+
+    {
+      "id": "WalkToWork",
+      "description": {
+          "1": "Incontro per informazioni e raccomandazioni per svolgimento stage e compilazione documentazione pertinente"
+      }
+    },
+
+    {
+      "id": "MontaSmonta",
+      "description": {
+          "1": "Formazione di 5 ore, sia teorica che pratica, volta ad insegnare come montare un computer. E' stata svolta a distanza attraverso il portale della Cisco dal professore Pontoriero, con modulo di verifica finale."
+      }
+    },
+
+    {
+      "id": "CNA",
+      "description": {
+          "1": "Webinar di 5 ore organizzato dalla CNA volto ad illustrare agli studenti vari percorsi da intraprendere post-diploma (lavoro, università). Svariati interventi e testimonianze, prove di colloquio in lingua inglese e introduzione all'utilizzo di LinkedIn. Esperienza altamente formativa e molto positiva."
+      }
+    }
+  ]
 }
