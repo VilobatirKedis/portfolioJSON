@@ -42,5 +42,7 @@
           "1": "Webinar di 5 ore organizzato dalla CNA volto ad illustrare agli studenti vari percorsi da intraprendere post-diploma (lavoro, università). Svariati interventi e testimonianze, prove di colloquio in lingua inglese e introduzione all'utilizzo di LinkedIn. Esperienza altamente formativa e molto positiva."
       }
     }
-  ]
+  ],
+
+  "paths": ["Ammagamma", "Web Analytics", "Orientamento", "WalkToWork", "MontaSmonta", "CNA"]
 }
